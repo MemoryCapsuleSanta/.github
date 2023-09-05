@@ -225,8 +225,7 @@ http://i9a608.p.ssafy.io:8001
 
 ## DB 덤프파일 최신본
 
-
-[santa__1_.sql](/uploads/17ef5e8952ea769a40c282b686826dc5/santa__1_.sql)
+(https://drive.google.com/file/d/1Y5AnRWFbwwNVpJtq6pYxylTtoIDg5lNO/view?usp=drive_link)
 
 
 ## 시연 시나리오
