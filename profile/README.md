@@ -1,5 +1,5 @@
 # UCC
-[[MemoryCapsule](https://memorycapsule.site). <br>](https://drive.google.com/file/d/19-bv_UHJ99KCsnYxaWXJlaJX5MUNIvL_/view?usp=drive_link)
+https://drive.google.com/file/d/19-bv_UHJ99KCsnYxaWXJlaJX5MUNIvL_/view?usp=drive_link
 
 # 포팅 매뉴얼 상세
 Detail Porting Manual for Team. Santa production.(A.K.A MemoryCapsule) <br>
