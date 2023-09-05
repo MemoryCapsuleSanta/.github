@@ -9,10 +9,9 @@ Visit and enjoy your memory! <br>
 ## 빌드/배포 시나리오
 
 - 전체 프로젝트 구조
+![docker-ver](https://github.com/MemoryCapsuleSanta/.github/assets/33599065/36648cc1-7198-4f13-a7d1-42612630ed11)
 
-![docker-ver](/uploads/c5481466c7a6f1b95fd46bdab59d1ed3/docker-ver.jpg)
-
-![archi_internal](/uploads/f34d6975a2cea0e2e94a9d733df8dc8c/archi_internal.png)
+![archi_internal](https://github.com/MemoryCapsuleSanta/.github/assets/33599065/902fa119-f286-4fe1-807e-567f9034693a)
 
 - 파일 구조
 ```
